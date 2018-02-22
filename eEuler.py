@@ -199,8 +199,8 @@ def symp_energy(n, h):
 if __name__ == '__main__':
 	n = 30
 	h =  .1
-	# pos_vel(n, h)
-	h_error(n, h)
+	pos_vel(n, h)
+    # h_error(n, h)
 	# energy(n, h)
 	# implicit_xv(n, h)
 	# energy_comp(n, h)
