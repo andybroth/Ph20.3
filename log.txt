@@ -1,0 +1,54 @@
+commit 6eba43bc97af9088521ad61578e48a967f908d0e
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Wed Feb 28 14:07:32 2018 -0800
+
+    Wrote Makefile and config.mk
+
+commit f80f9b0c538ba2f52e3fb2f2d9b7bc41563a71fc
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Wed Feb 28 13:42:37 2018 -0800
+
+    Deleted eEuler.py
+
+commit 10311bd3c40bd0e9a2aabd53e0dc550a0caa87ed
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Wed Feb 28 13:41:12 2018 -0800
+
+    Changed file names
+
+commit 7e06c034e37157f5bae9366c7fe829cc3fd217d1
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Wed Feb 28 13:34:38 2018 -0800
+
+    Removed the thing
+
+commit eecba9631e465aee534508ca3fe908296d3d71d3
+Merge: dd622cf 5dc5586
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Wed Feb 28 13:32:32 2018 -0800
+
+    Merge branch 'master' of https://github.com/andybroth/Ph20.3
+
+commit dd622cf47b1a7bc1d01f249153dbb4229c73d7ef
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Wed Feb 28 13:27:56 2018 -0800
+
+    Deleted old python file
+
+commit 30592324b8fc848502729b86845d6dba416333ee
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Wed Feb 28 12:44:06 2018 -0800
+
+    Added all the python files
+
+commit 5dc55866b45f45ad06632c78cab8036ef8fc7a9e
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Thu Feb 22 13:18:23 2018 -0800
+
+    Changed a comment in eEuler.py
+
+commit 7316a27888a9808ab3a985dcf908c5b26cd74570
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Thu Feb 22 13:11:18 2018 -0800
+
+    Adding Unchanged Docs
