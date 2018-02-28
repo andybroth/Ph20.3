@@ -1,3 +1,9 @@
+commit d678ba3d9fcc9766c48b7bc4aa33e4b67d394f5a
+Author: Andy Rothstein <arothste@caltech.edu>
+Date:   Wed Feb 28 14:39:56 2018 -0800
+
+    Added log.txt and finished LaTeX file
+
 commit 6eba43bc97af9088521ad61578e48a967f908d0e
 Author: Andy Rothstein <arothste@caltech.edu>
 Date:   Wed Feb 28 14:07:32 2018 -0800
