@@ -25,5 +25,4 @@ if __name__ == '__main__':
 	plt.title('Phase Space Geometry')
 	plt.legend(bbox_to_anchor=(1.05, 1), loc=1, borderaxespad=0.)
 	plt.axis('equal')
-	plt.show()
 	plt.savefig('phase_space.pdf')
