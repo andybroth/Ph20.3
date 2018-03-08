@@ -11,7 +11,6 @@ all : Ordinary_DifEQ.pdf
 
 Ordinary_DifEQ.pdf : Ordinary_DifEQ.tex $(PLOTS) error_plot.pdf
 	$(LATEX_EXE)
-	open Ordinary_DifEQ.pdf
 
 ## pdfs      : Makes the pdf plots
 .PHONY : pdfs
