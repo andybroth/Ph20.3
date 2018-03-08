@@ -17,8 +17,9 @@ Ordinary_DifEQ.pdf : Ordinary_DifEQ.tex $(PLOTS) error_plot.pdf
 .PHONY : pdfs
 pdfs : $(PLOTS) error_plot.pdf
 
+#python executable changed for CDW's machine
 %.pdf : %.py
-	python3 $<
+	~/anaconda3/bin/python3 $< 
 
 ## clean     : removes auto-generated files
 .PHONY : clean
